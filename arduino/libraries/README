@@ -1,0 +1,7 @@
+External dependencies:
+
+- IRremote: https://github.com/shirriff/Arduino-IRremote
+- Button: https://github.com/tigoe/Button
+- Encoder: http://www.pjrc.com/teensy/td_libs_Encoder.html
+- PT2322: http://oddwires.blogspot.com/2012/07/using-arduino-pt2322-library-for-audio.html
+- as well as included Led library.
